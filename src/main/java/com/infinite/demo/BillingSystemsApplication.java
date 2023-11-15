@@ -12,7 +12,7 @@ public class BillingSystemsApplication {
 			    invoice i = new invoice();
 			    i.getdata();
 			    i.WriteInvoice();
-			    System.out.println("Invoice Generated!");
+		  	    System.out.println("Invoice Generated!");
 			    
 			  }
 	}
